@@ -1,0 +1,1 @@
+import{Ga as o,Ya as n,Za as a,jb as f}from"./chunk-WQZFASF7.js";var i=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=o({type:e,selectors:[["app-notfound"]],decls:2,vars:0,template:function(t,d){t&1&&(n(0,"p"),f(1,"404 not found"),a())},encapsulation:2})};export{i as Notfound};
