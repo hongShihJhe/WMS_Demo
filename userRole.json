@@ -4,7 +4,6 @@
         {"account": "wms", "role": "admin"},
         {"account": "john", "role": "employeeA"},
         {"account": "mary", "role": "employeeB"},
-        {"account": "kevin", "role": "employeeA"},
         {"account": "kevin", "role": "employeeB"},
         {"account": "jack", "role": "employeeC"}
     ]
