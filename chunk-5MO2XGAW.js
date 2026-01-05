@@ -1,0 +1,1 @@
+import{K as c,f as t}from"./chunk-WU3GBNUU.js";var a=class r{breadcrumbSource=new t;breadcrumb$=this.breadcrumbSource.asObservable();push(e){this.breadcrumbSource.next(e)}static \u0275fac=function(o){return new(o||r)};static \u0275prov=c({token:r,factory:r.\u0275fac,providedIn:"root"})};export{a};
