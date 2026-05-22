@@ -1,0 +1,1 @@
+import{Da as o,Va as n,Wa as a,gb as s}from"./chunk-5FE3HT34.js";import"./chunk-KAT7YFEL.js";var i=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=o({type:e,selectors:[["app-notfound"]],decls:2,vars:0,template:function(t,d){t&1&&(n(0,"p"),s(1,"404 not found"),a())},encapsulation:2})};export{i as NotFound};

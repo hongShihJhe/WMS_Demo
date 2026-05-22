@@ -1,0 +1,1 @@
+import{Da as n,Va as o,Wa as i,gb as a}from"./chunk-5FE3HT34.js";import"./chunk-KAT7YFEL.js";var r=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-forbbiden"]],decls:2,vars:0,template:function(e,p){e&1&&(o(0,"p"),a(1,"403 forbbiden"),i())},encapsulation:2})};export{r as Forbbiden};
